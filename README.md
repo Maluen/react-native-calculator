@@ -1,7 +1,7 @@
 With **Git Bash** on Windows:
 
 - `ipconfig` to discover the network interface ipv4
-- export REACT_NATIVE_PACKAGER_HOSTNAME='<current ip>'
+- export REACT_NATIVE_PACKAGER_HOSTNAME='current ip'
 - yarn start
 
 Make sure that the current ip is being used, it will be printed once the cli starts:
