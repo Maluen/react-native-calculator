@@ -1,5 +1,14 @@
+# React Native Calculator
+
+> Android Calculator clone built with React Native
+
+![Screenshot](/screenshot.png?raw=true "Screenshot")
+
+## Running
+
 With **Git Bash** on Windows:
 
+- `yarn`
 - `ipconfig` to discover the network interface ipv4
 - export REACT_NATIVE_PACKAGER_HOSTNAME='current ip'
 - yarn start
