@@ -2,7 +2,9 @@
 
 > Android Calculator clone built with React Native
 
-![Screenshot](/screenshot.png?raw=true "Screenshot")
+![Screenshot](/screenshots/screenshot.png?raw=true "Screenshot")
+
+Article: https://medium.com/@Maluen0/a-clueless-look-at-react-native-part-2-first-project-d77c0acda2b3
 
 ## Running
 
